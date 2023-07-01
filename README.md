@@ -27,6 +27,10 @@ To test your output, simply open any of your html files in your preferred web br
 │   └── index.html
 ```
 
+#### Text Contents
+Utilize the provided text contents at [**assets/texts**](assets/texts) to expedite your activity.
+
+
 ### I. Newsfeed `(index.html)`
 The **Newsfeed** page lists all the tech news headlines on one page.
 There is also a navigation bar for navigating between Newsfeed and Categories.
