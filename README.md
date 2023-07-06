@@ -43,7 +43,8 @@ The **Categories** page lists all news categories on one page.
 There is also a navigation bar for navigating between Categories and Newsfeed.
 
 <small>
-<b>HINT:</b> To navigate to files in the parent folder, use <b><code>../</code></b> as needed.
+<b>HINT:</b> To link files in the parent folder,
+use <b><code>../</code></b> in the beginning of <code>href</code> value.
 </small>
 
 ![categories](assets/html-03--02-categories.jpg)
@@ -66,7 +67,8 @@ Clicking on any news link redirects the website to the relevant news article pag
 There are also navigation links at the top and bottom that redirects back to **Newsfeed** page.
 
 <small>
-<b>HINT:</b> To navigate to files in the parent folder, use <b><code>../</code></b> as needed.
+<b>HINT:</b> To link files in the parent folder,
+use <b><code>../</code></b> in the beginning of <code>href</code> value.
 </small>
 
 #### 1. XYZ Tech's XYZ-10: A Revolutionary Smartphone with Cutting-Edge Features
